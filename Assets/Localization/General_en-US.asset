@@ -1,0 +1,239 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: General_en-US
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en-US
+  m_SharedData: {fileID: 11400000, guid: 0f676f056b73562469e1d346d93f2c7b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 59888332800
+    m_Localized: NEXT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2787762991104
+    m_Localized: DISCLAIMER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3143498690560
+    m_Localized: 'Users must remain aware of their surroundings while engaged with
+      this app. Be cautious about where you are walking and what you are doing in
+      the real world as you use your mobile device to view AR imagery juxtaposed
+      with the real world.
+
+
+      The app does NOT depict real or existing underground
+      utilities, so it should not be used to determine location of underground utilities
+      for excavation. It is entirely a fictitious, procedurally generated depiction
+      of content used solely for a gaming/education experience.
+
+
+      The app depicts
+      repair operations that are only minimally and loosely based on real world repair
+      techniques. No repair gaming simulations should be interpreted as actual instructions
+      as to how to repair an underground utility - any identification of a real world
+      damaged utility should involve an individual contacting the owner of the utility
+      - and in the case of gas and electric, contacting 911 first!
+
+
+      This app
+      does not collect personally identifying information from users. Further, we
+      will never not knowingly collect, use or share information from children under
+      age 13 without parental consent or as permitted by law. Any user, or the parent
+      or guardian of a user, may contact Virginia 811 about our data privacy and
+      security practices using the contact information found in our online privacy
+      policy.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6164341288960
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6415458463744
+    m_Localized: ENGLISH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6852639158272
+    m_Localized: Spanish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13506315251712
+    m_Localized: 'HELLO, I''M REX --
+
+      YOUR SMART HELPER.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15102793183232
+    m_Localized: camera access is needed for this game to function properly.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15095411208192
+    m_Localized: '<size=55>"UNDERLINE QUEST" </size>
+
+      ACCESS TO THE CAMERA
+      IS REQUIRED'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 748706650382336
+    m_Localized: "\"Hey! I\u2019m REX, your smart helper.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 748834748620800
+    m_Localized: '"Ready to dive deep and save the day?"'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 748862607187968
+    m_Localized: "\"Alert! Something\u2019s broken underground.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 748911173033984
+    m_Localized: '"The system is unstable!"'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 748933314764800
+    m_Localized: '"Your mission: find the damage."'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 748992542531584
+    m_Localized: "\"Fix it before it\u2019s too late.\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 749004529852416
+    m_Localized: "\"Time is ticking. Let\u2019s go!\""
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1500172054945792
+    m_Localized: SELECT CHARACTER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1505471797125120
+    m_Localized: SKIP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1506054633414656
+    m_Localized: SOUND
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1506233235267584
+    m_Localized: MUSIC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1507370659209216
+    m_Localized: VIBRATION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2511147851833344
+    m_Localized: SHARE GAME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2511499053490176
+    m_Localized: PRIVACY POLICY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2520274594422784
+    m_Localized: ON
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2520830880768000
+    m_Localized: OFF
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2553986547703808
+    m_Localized: INFO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2554279473700864
+    m_Localized: "TERMS AND CONDITIONS \n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2557626444406784
+    m_Localized: 'TERMS AND CONDITIONS (T&Cs),
+
+      ALSO KNOWN AS TERMS OF SERVICE
+      OR TERMS OF USE, ARE A LEGALLY BINDING AGREEMENT BETWEEN A SERVICE PROVIDER
+      AND ITS USERS OR CUSTOMERS. THEY SET FORTH THE RULES AND EXPECTATIONS FOR ACCESSING
+      AND USING A SERVICE, WEBSITE, OR APPLICATION. THESE TERMS DETAIL THE RESPONSIBILITIES
+      OF BOTH THE USER AND THE PROVIDER, INCLUDING GUIDELINES FOR APPROPRIATE CONDUCT,
+      CONTENT USAGE, INTELLECTUAL PROPERTY RIGHTS, PAYMENT OBLIGATIONS, AND LIMITATIONS
+      OF LIABILITY, ENSURING CLARITY, COMPLIANCE, AND PROTECTION FOR BOTH PARTIES
+      INVOLVED.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2895928154382336
+    m_Localized: PRIVACY POLICY_BODY YYYYY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2902184105598976
+    m_Localized: LEVEL SELECTION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2974274531876864
+    m_Localized: SETTINGS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4352623284051968
+    m_Localized: APPRENTICE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4352717597171712
+    m_Localized: TECHNICIAN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4352904277254144
+    m_Localized: FIELD EXPERT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4353028814528512
+    m_Localized: AGE 6-10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4353111593312256
+    m_Localized: AGE 10-16
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4353160037523456
+    m_Localized: 'AGE 16 & ABOVE '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4390687909863424
+    m_Localized: ACCEPT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5496323561218048
+    m_Localized: YES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5496929843666944
+    m_Localized: NO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5498596890763264
+    m_Localized: ARE YOU SURE YOU WANT TO EXIT TO HOME SCREEN ?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5500960418816000
+    m_Localized: RESUME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5505309320667136
+    m_Localized: MENU
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6876996448542720
+    m_Localized: UTILITY SELECTION
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

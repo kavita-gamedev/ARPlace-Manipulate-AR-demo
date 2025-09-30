@@ -1,0 +1,228 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: General_es-ES
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es-ES
+  m_SharedData: {fileID: 11400000, guid: 0f676f056b73562469e1d346d93f2c7b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 59888332800
+    m_Localized: "Pr\xF3xima"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2787762991104
+    m_Localized: Descargo de responsabilidad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3143498690560
+    m_Localized: "Los usuarios deben estar atentos a su entorno mientras usan esta
+      aplicaci\xF3n. Tenga cuidado con sus pasos y actividades en el mundo real al
+      usar su dispositivo m\xF3vil para ver im\xE1genes de RA yuxtapuestas con el
+      mundo real.\n\nLa aplicaci\xF3n NO muestra servicios subterr\xE1neos reales
+      o existentes, por lo que no debe utilizarse para determinar la ubicaci\xF3n
+      de servicios subterr\xE1neos para excavaciones. Se trata de una representaci\xF3n
+      ficticia, generada procedimentalmente, de contenido utilizado \xFAnicamente
+      para una experiencia de juego/educativa.\n\nLa aplicaci\xF3n muestra operaciones
+      de reparaci\xF3n que se basan m\xEDnimamente y vagamente en t\xE9cnicas de
+      reparaci\xF3n del mundo real. Ninguna simulaci\xF3n de juego de reparaci\xF3n
+      debe interpretarse como instrucciones reales sobre c\xF3mo reparar un servicio
+      subterr\xE1neo. Cualquier identificaci\xF3n de un servicio da\xF1ado en el
+      mundo real debe implicar que una persona se ponga en contacto con el propietario
+      del servicio y, en el caso del gas y la electricidad, \xA1que se llame primero
+      al 911!\n\nEsta aplicaci\xF3n no recopila informaci\xF3n de identificaci\xF3n
+      personal de los usuarios. Adem\xE1s, nunca recopilaremos, utilizaremos ni compartiremos,
+      a sabiendas, informaci\xF3n de ni\xF1os menores de 13 a\xF1os sin el consentimiento
+      de sus padres o seg\xFAn lo permita la ley. Cualquier usuario, o el padre o
+      tutor de un usuario, puede comunicarse con Virginia 811 sobre nuestras pr\xE1cticas
+      de privacidad y seguridad de datos utilizando la informaci\xF3n de contacto
+      que se encuentra en nuestra pol\xEDtica de privacidad en l\xEDnea."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6164341288960
+    m_Localized: Idioma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6415458463744
+    m_Localized: "INGL\xC9S"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6852639158272
+    m_Localized: "Espa\xF1ol"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13506315251712
+    m_Localized: HOLA, SOY REX - TU AYUDANTE INTELIGENTE.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15095411208192
+    m_Localized: "<size=55>\"SUBRAYA LA MISI\xD3N\"</size>\nSE REQUIERE ACCESO A
+      LA C\xC1MARA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15102793183232
+    m_Localized: "Se necesita acceso a la c\xE1mara para que este juego funcione
+      correctamente."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 748706650382336
+    m_Localized: "\xA1Hola! Soy REX, tu ayudante inteligente"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 748834748620800
+    m_Localized: "Listo para sumergirte y salvar el d\xEDa?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 748862607187968
+    m_Localized: Alerta! Algo se ha roto bajo tierra.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 748911173033984
+    m_Localized: "\xA1El sistema es inestable!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 748933314764800
+    m_Localized: "Tu misi\xF3n: encuentra el da\xF1o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 748992542531584
+    m_Localized: "Arr\xE9glalo antes de que sea demasiado tarde"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 749004529852416
+    m_Localized: "El tiempo corre. \xA1Vamos!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1500172054945792
+    m_Localized: Elegir personaje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1505471797125120
+    m_Localized: Saltar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1506054633414656
+    m_Localized: sonido
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1506233235267584
+    m_Localized: "m\xFAsica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1507370659209216
+    m_Localized: "vibraci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2511147851833344
+    m_Localized: Compartir juego
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2511499053490176
+    m_Localized: "Pol\xEDtica de privacidad"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2520274594422784
+    m_Localized: Act
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2520830880768000
+    m_Localized: Des
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2553986547703808
+    m_Localized: "Informaci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2554279473700864
+    m_Localized: "T\xE9rminos y Condiciones"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2557626444406784
+    m_Localized: "T\xE9rminos y Condiciones (T&C),\ntambi\xE9n conocidos como T\xE9rminos
+      de Servicio o T\xE9rminos de Uso, son un acuerdo legalmente vinculante entre
+      un proveedor de servicios y sus usuarios o clientes. Establecen las reglas
+      y expectativas para acceder y utilizar un servicio, sitio web o aplicaci\xF3n.\n\nEstos
+      t\xE9rminos detallan las responsabilidades tanto del usuario como del proveedor,
+      incluyendo pautas para la conducta apropiada, el uso de contenidos, los derechos
+      de propiedad intelectual, las obligaciones de pago y las limitaciones de responsabilidad,
+      garantizando claridad, cumplimiento y protecci\xF3n para ambas partes involucradas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2895928154382336
+    m_Localized: PRIVACY POLICY_BODY Spanish
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2902184105598976
+    m_Localized: "SELECCI\xD3N DE NIVEL"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2974274531876864
+    m_Localized: "Configuraci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4352623284051968
+    m_Localized: Aprendiz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4352717597171712
+    m_Localized: "T\xE9cnico"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4352904277254144
+    m_Localized: Experto de campo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4353028814528512
+    m_Localized: "Edad 6\u201310"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4353111593312256
+    m_Localized: "Edad 10\u201316"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4353160037523456
+    m_Localized: "Edad 16 y m\xE1s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4390687909863424
+    m_Localized: Aceptar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5496323561218048
+    m_Localized: "S\xCD"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5496929843666944
+    m_Localized: NO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5498596890763264
+    m_Localized: "\xBFEST\xC1S SEGURO DE QUE QUIERES SALIR A LA PANTALLA DE INICIO?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5500960418816000
+    m_Localized: REANUDAR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5505309320667136
+    m_Localized: "MEN\xDA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6876996448542720
+    m_Localized: "Selecci\xF3n de utilidades"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

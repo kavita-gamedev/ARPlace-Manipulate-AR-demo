@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/_Project/Scenes/Splash.unity
+    guid: 3520f44256ec946d098b101cf2ebbeb3
+  - enabled: 0
+    path: Assets/_Project/Scenes/Loading.unity
+    guid: 277fad1c6bc905240a36d3ef2bf8d799
+  - enabled: 0
+    path: Assets/_Project/Scenes/MainMenu.unity
+    guid: 1a87f870e1de14b9f89fe8369f9d2dd2
+  - enabled: 1
+    path: Assets/_Project/Scenes/Gameplay.unity
+    guid: ec82491072914db4cb8ff20f8262b114
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: b7d7e1f464355f444a11dcb4572733ef, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 4453d71c878e31b4084c85bb9876c60c, type: 2}
+    com.unity.addressableassets: {fileID: 11400000, guid: b81d47d1cb85213438a3b7202a6a3fd6, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.localization.settings: {fileID: 11400000, guid: c393f243b6acffe4681c3e50b5a4e89f, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: aad24a09eb725cc44b6da779374fde2c, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a3af773fed0229445a404cd4ba6a1077, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 6c3c7a631b9ad634d826da078cf20803, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 6ce8a4a3e51714242b25b0d86ec73c84, type: 2}
+  m_UseUCBPForAssetBundles: 0
