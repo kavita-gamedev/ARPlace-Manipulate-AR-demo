@@ -98,5 +98,4 @@ Use a Unity `.gitignore` template such as:
 ---
 
 ## License
-
-This project is provided as a demo/template. You may use and modify it freely for your own projects.
+This project is provided as a demo/template. You may not use, copy, or redistribute it without prior permission from the author. Contact [Your Name or Email] for permission.
