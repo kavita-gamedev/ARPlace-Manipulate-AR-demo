@@ -1,7 +1,5 @@
 # ARPlace-Manipulate-AR-demo
 
-# ARPlace & Manipulate — Simple AR Demo
-
 ## Overview
 
 This is a minimal Unity AR demo project that allows you to:
